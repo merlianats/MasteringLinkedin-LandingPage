@@ -24,7 +24,7 @@ Website ini menampilkan manfaat, testimoni, dan informasi seputar kelas agar pen
 - [Vite](https://vitejs.dev/) – Development server & bundler
 - [Tailwind CSS](https://tailwindcss.com/) – Styling
 - [Remix Icon](https://remixicon.com/) – Icon pack
-- [GitHub Pages / Vercel / Netlify] – Deployment
+- [Netlify](https://www.netlify.com/) – Deployment
 
 ---
 
