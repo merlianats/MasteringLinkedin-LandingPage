@@ -39,4 +39,5 @@ Website ini menampilkan manfaat, testimoni, dan informasi seputar kelas agar pen
 4. Jalankan project
    npm run dev
 
-🌐 Live Demo
+🌐 Link Demo
+https://bl-app.netlify.app/
